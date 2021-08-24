@@ -58,16 +58,16 @@ https://tailwindcss.com/docs/guides/laravel
 
 6. npx mix
 7. load css pada halaman html 
-*  <!doctype html>
-*  <head>
-*    <!-- ... --->
-*   <meta charset="UTF-8" />
-*   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-*   <link href="/css/app.css" rel="stylesheet">
-*  </head>
-*  <body>
-*    <div class="min-h-screen bg-gray-100 flax justify-center items-center">
-*      <h1 clss="text-4x1 font-medium"> Selamat Belajar Tailwind CSS </h1>
-*    </div>
-*  </body>
-*  <!-- ... --->
+<!doctype html>
+  <head>
+    <!-- ... --->
+   <meta charset="UTF-8" />
+   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+   <link href="/css/app.css" rel="stylesheet">
+  </head>
+  <body>
+    <div class="min-h-screen bg-gray-100 flax justify-center items-center">
+      <h1 clss="text-4x1 font-medium"> Selamat Belajar Tailwind CSS </h1>
+    </div>
+  </body>
+  <!-- ... --->
