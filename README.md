@@ -1,2 +1,4 @@
-# note-tailwindcss
-note tailwind css
+# Note Tailwindcss
+Belajar Tailwind CSS
+
+
