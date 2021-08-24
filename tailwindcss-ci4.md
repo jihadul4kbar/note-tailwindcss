@@ -13,7 +13,7 @@ https://laravel-mix.com/docs/6.0/installation
 
 pada direktori codeigniter buat folder 
 
-*--src
+* --src
 *  --css
 *    -- app.css
 *  --js
