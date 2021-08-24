@@ -4,9 +4,9 @@ https://codeigniter.com/user_guide/installation/installing_composer.html
 1. composer create-project codeigniter4/appstarter --no-dev 
 ## Install Laravel Mix
 https://laravel-mix.com/docs/6.0/installation 
-3. npm init -y  
-4. npm install laravel-mix --save-dev 
-5. touch webpack.mix.js
+1. npm init -y  
+2. npm install laravel-mix --save-dev 
+3. touch webpack.mix.js / buat file secara manual pada directori codeigniter
 let mix = require('laravel-mix');
 mix.js('src/app.js', 'public/js');
 
@@ -16,7 +16,7 @@ pada direktori codeigniter buat folder
     -- app.css
   --js
     -- app.js
-6. npx mix
+4. npx mix
 ## Install TailwindCss
 https://tailwindcss.com/docs/guides/laravel
 1. npm install -D tailwindcss@latest postcss@latest autoprefixer@latest
