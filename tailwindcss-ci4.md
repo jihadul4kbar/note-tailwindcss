@@ -3,6 +3,7 @@
 https://codeigniter.com/user_guide/installation/installing_composer.html
 1. composer create-project codeigniter4/appstarter --no-dev 
 ## Install Laravel Mix
+* note : Versi Nodejs harus v12.14 atau lebih tinggi
 https://laravel-mix.com/docs/6.0/installation 
 1. npm init -y  
 2. npm install laravel-mix --save-dev 
@@ -18,7 +19,6 @@ pada direktori codeigniter buat folder
 *    -- app.css
 *  --js
 *    -- app.js
-
 4. npx mix
 ## Install TailwindCss
 https://tailwindcss.com/docs/guides/laravel
