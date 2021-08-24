@@ -7,17 +7,18 @@ https://laravel-mix.com/docs/6.0/installation
 1. npm init -y  
 2. npm install laravel-mix --save-dev 
 3. touch webpack.mix.js / buat file secara manual pada directori codeigniter
-let mix = require('laravel-mix');
-mix.js('src/app.js', 'public/js');
+* //touch webpack.mix.js
+* let mix = require('laravel-mix');
+* mix.js('src/app.js', 'public/js');
 
 pada direktori codeigniter buat folder 
 
---src
-  --css
-    -- app.css
-  --js
-    -- app.js
-    
+*--src
+*  --css
+*    -- app.css
+*  --js
+*    -- app.js
+
 4. npx mix
 ## Install TailwindCss
 https://tailwindcss.com/docs/guides/laravel
