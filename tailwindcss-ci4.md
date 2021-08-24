@@ -11,11 +11,13 @@ let mix = require('laravel-mix');
 mix.js('src/app.js', 'public/js');
 
 pada direktori codeigniter buat folder 
+
 --src
   --css
     -- app.css
   --js
     -- app.js
+    
 4. npx mix
 ## Install TailwindCss
 https://tailwindcss.com/docs/guides/laravel
