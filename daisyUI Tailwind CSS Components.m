@@ -1,2 +1,2 @@
 ## Tailwind Components
-(daisyui)[https://daisyui.com/]
+[daisyui](https://daisyui.com/)
